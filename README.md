@@ -10,7 +10,7 @@
 
 
 ## Problem Statement:
-This is a Machine learning project.i am trying to detect the fake news by the training the dataset.
+This is a Machine learning project.i am trying to detect the Fake news by the training the dataset.
 
 ![1000_F_336304058_lIkAhZbkWlUSQ6W0DY80RWwjjGi7NYNy](https://github.com/arshad33199/fake-news-detection/assets/142779412/82cb9339-8720-4ee6-b77a-3bb28af8478a)
 
