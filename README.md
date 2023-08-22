@@ -32,8 +32,11 @@ this is the subjects pie graph.
 ![newplot (34)](https://github.com/arshad33199/fake-news-detection/assets/142779412/2b39a6aa-5769-43b9-9e44-52a5ba73bd3b)
 
 
+
+
 true and fake news counts.
 ![download](https://github.com/arshad33199/fake-news-detection/assets/142779412/9fe2d506-6af6-4aec-b799-3ea7893c72e5)
+
 
 
 
