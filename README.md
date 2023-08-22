@@ -45,7 +45,7 @@ True and Fake news counts.
 
 ## Model Implementation:
 
-I used DecisionTreeClassifier to fit the dataset.
+I used DecisionTreeClassifier.
 
 the accuracy score is 99.64%% 
 
