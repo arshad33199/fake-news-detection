@@ -24,17 +24,17 @@ I did some feature engineering in it and shuffle the dataset.
 
 I dropped the additional info and route columns as most of the values were missing or of no use.
 
-I added a new column as target for showing true and fake.
+I added a new column as target for showing True and Fake.
 
-I did remove punctuations from text column and stop words from Text column with the help of nltk.
+I did remove punctuations from text column and Stop Words from Text column with the help of nltk.
 
-this is the subjects pie graph.
+This is the subjects pie graph.
 ![newplot (34)](https://github.com/arshad33199/fake-news-detection/assets/142779412/2b39a6aa-5769-43b9-9e44-52a5ba73bd3b)
 
 
 
 
-true and fake news counts.
+True and Fake news counts.
 
 
 ![download](https://github.com/arshad33199/fake-news-detection/assets/142779412/9fe2d506-6af6-4aec-b799-3ea7893c72e5)
